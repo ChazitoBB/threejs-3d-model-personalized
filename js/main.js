@@ -12,7 +12,7 @@ const clock = new THREE.Clock();
 let mixer;
 
 const params = {
-	asset: 'Samba Dancing'
+	asset: 'Double Leg Takedown - Attacker'
 };
 
 const assets = [
